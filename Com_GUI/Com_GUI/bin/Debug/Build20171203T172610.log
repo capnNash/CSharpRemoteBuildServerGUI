@@ -1,0 +1,32 @@
+﻿2017-12-03 17:26:10.519 Build20171203T172610.log is created.
+2017-12-03 17:26:15.068 [INFO]    Build result for testcase: TestDriver1.cs TestedOne.cs TestedTwo.cs
+2017-12-03 17:26:15.074 [DEBUG]   Exit Code: 0
+2017-12-03 17:26:15.076 [WARNING] Microsoft (R) Visual C# Compiler version 4.6.1055.0
+for C# 5
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+This compiler is provided as part of the Microsoft (R) .NET Framework, but only supports language versions up to C# 5, which is no longer the latest version. For compilers that support newer versions of the C# programming language, see http://go.microsoft.com/fwlink/?LinkID=533240
+
+
+2017-12-03 17:26:15.094 [ERROR]   
+2017-12-03 17:26:15.944 [INFO]    Build result for testcase: TestDriver2.cs TestedOne.cs TestedTwo.cs
+2017-12-03 17:26:15.968 [DEBUG]   Exit Code: 1
+2017-12-03 17:26:15.977 [WARNING] Microsoft (R) Visual C# Compiler version 4.6.1055.0
+for C# 5
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+This compiler is provided as part of the Microsoft (R) .NET Framework, but only supports language versions up to C# 5, which is no longer the latest version. For compilers that support newer versions of the C# programming language, see http://go.microsoft.com/fwlink/?LinkID=533240
+
+TestDriver2.cs(22,11): error CS1061: 'TestBuild.TestedTwo' does not contain a definition for 'sayOne' and no extension method 'sayOne' accepting a first argument of type 'TestBuild.TestedTwo' could be found (are you missing a using directive or an assembly reference?)
+
+2017-12-03 17:26:15.983 [ERROR]   
+2017-12-03 17:26:16.331 [INFO]    Build result for testcase: TestDriver3.cs TestedThree.cs
+2017-12-03 17:26:16.341 [DEBUG]   Exit Code: 0
+2017-12-03 17:26:16.349 [WARNING] Microsoft (R) Visual C# Compiler version 4.6.1055.0
+for C# 5
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+This compiler is provided as part of the Microsoft (R) .NET Framework, but only supports language versions up to C# 5, which is no longer the latest version. For compilers that support newer versions of the C# programming language, see http://go.microsoft.com/fwlink/?LinkID=533240
+
+
+2017-12-03 17:26:16.356 [ERROR]   

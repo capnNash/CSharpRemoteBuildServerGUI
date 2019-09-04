@@ -1,0 +1,6 @@
+C:\Users\nash\source\repos\ComPro1\ComPro1\bin\Debug\ComPro1.exe.config
+C:\Users\nash\source\repos\ComPro1\ComPro1\bin\Debug\ComPro1.exe
+C:\Users\nash\source\repos\ComPro1\ComPro1\bin\Debug\ComPro1.pdb
+C:\Users\nash\source\repos\ComPro1\ComPro1\obj\Debug\ComPro1.csproj.CoreCompileInputs.cache
+C:\Users\nash\source\repos\ComPro1\ComPro1\obj\Debug\ComPro1.exe
+C:\Users\nash\source\repos\ComPro1\ComPro1\obj\Debug\ComPro1.pdb

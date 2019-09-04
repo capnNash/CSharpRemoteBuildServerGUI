@@ -1,0 +1,7 @@
+C:\Users\nash\Desktop\Com_GUI\Logging\bin\Debug\Logging.exe.config
+C:\Users\nash\Desktop\Com_GUI\Logging\bin\Debug\Logging.exe
+C:\Users\nash\Desktop\Com_GUI\Logging\bin\Debug\Logging.pdb
+C:\Users\nash\Desktop\Com_GUI\Logging\obj\Debug\Logging.csproj.CoreCompileInputs.cache
+C:\Users\nash\Desktop\Com_GUI\Logging\obj\Debug\Logging.exe
+C:\Users\nash\Desktop\Com_GUI\Logging\obj\Debug\Logging.pdb
+C:\Users\nash\Desktop\Com_GUI\Logging\obj\Debug\Logging.csprojResolveAssemblyReference.cache

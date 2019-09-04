@@ -1,0 +1,5 @@
+
+2017-12-06 22:35:51.841 [INFO]    Executing test for 20171206T223550P8082D1.dll
+2017-12-06 22:35:51.844 [OUTPUT] The test succeeded!
+2017-12-06 22:35:51.850 [INFO]    Executing test for 20171206T223551P8082D2.dll
+2017-12-06 22:35:51.853 [ERROR]   The test failed with exception: Exception has been thrown by the target of an invocation.

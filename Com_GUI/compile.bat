@@ -1,0 +1,1 @@
+devenv Com_GUI.sln /rebuild debug 

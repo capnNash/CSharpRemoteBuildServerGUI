@@ -1,0 +1,7 @@
+C:\su\CSE681\code\Project2HelpF2017\HelpSession-8-Sep-2017\SMA-ProjectTemplate1\bin\Debug\SMA-ProjectTemplate1.exe.config
+C:\su\CSE681\code\Project2HelpF2017\HelpSession-8-Sep-2017\SMA-ProjectTemplate1\bin\Debug\SMA-ProjectTemplate1.exe
+C:\su\CSE681\code\Project2HelpF2017\HelpSession-8-Sep-2017\SMA-ProjectTemplate1\bin\Debug\SMA-ProjectTemplate1.pdb
+C:\su\CSE681\code\Project2HelpF2017\HelpSession-8-Sep-2017\SMA-ProjectTemplate1\obj\Debug\SMA-ProjectTemplate1.csprojResolveAssemblyReference.cache
+C:\su\CSE681\code\Project2HelpF2017\HelpSession-8-Sep-2017\SMA-ProjectTemplate1\obj\Debug\SMA-ProjectTemplate1.csproj.CoreCompileInputs.cache
+C:\su\CSE681\code\Project2HelpF2017\HelpSession-8-Sep-2017\SMA-ProjectTemplate1\obj\Debug\SMA-ProjectTemplate1.exe
+C:\su\CSE681\code\Project2HelpF2017\HelpSession-8-Sep-2017\SMA-ProjectTemplate1\obj\Debug\SMA-ProjectTemplate1.pdb
